@@ -1,0 +1,14 @@
+{
+    "type": "service_account",
+    "project_id": "dmd-database",
+    "private_key_id": "f02b441a77fc0dab6df062b58818d6179ba37847",
+    "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEuwIBADANBgkqhkiG9w0BAQEFAASCBKUwggShAgEAAoIBAQC8jWaC7Odb73jb\n5MMbTe/At/EV92/Epq4G2PKzg4p6eTjBp4BtXShZpgpOfHh3w/KcQGARUd+c1M/C\n+6tQer2aj6JLFpJjOCqC7+sFO1yPWnYnhKKsoNrsMgsnEqZ0+H8+gDaema7FDQjS\nnQXkBuHMFfNVXIe26kLcE4RXbBwQ6wSTkUqUbckspIbQgBtTjGmx916P+yasc/+d\n19f7CzwWlFo4zeIuwb/cQWnAmpCIBumuCIyQq75qvXZcvOYoZWoTcZhAJukMC0YY\n2ZldJ1V1iO5DkI6PScpWm/zouPGws1tCrPBkg6isitqxuz8c7CTSk+Num5EpwA1P\nm9oNJwtHAgMBAAECgf8Pfu7UuqOKOwX1AmSD/RXuV03EPyMxocx5ZDfjW8QAsSLk\n5Y7kr0rO0hLFg6dx9BcQUenFeJW12nIzrS/zrocTw1rPZ5MEspj+AaqfSvtaclYM\nUssp3UWeLcn+G8F+Sejf6ce2gl5OGcQiXdRVUpXSmWSiYxF49urYEkoUWKsO6vBH\nOqD8HxX410wfmpMJjLN3XzdSVOMMt+00NQkbL7yXgCUy1tQKE4cfUwyd6EC0QJe+\nrvJpnsKEGLzXZNKXhSYtB2i86GltoJHIEx+ZognjY0wZ3tx93739dPxvsK2bAt52\n0grIC6bx3vjQ0k+W/mLehv0WK9XUTkfls1XBAzkCgYEA7UgemtTEF7P8V9nTSrQ/\ndwGhZo7rdErgq94o49NsRtHooWj7BLMjwikEx/jmjAwRSqP7JaDTB2DjBEPstxH3\nLphzGKQ8KhxRM2lS96yKFHvZTgaa885+wCwyUKqMvHc81HLIg9Hv3BiwisTyBdOn\nE6R7Dq/w81dLdoqEQ9qqVTsCgYEAy20yNOZ9LCiq3sE9+MbUEYLVLlAMcZ5xvLcj\nF7VDG0bLT+q733AiLw5D2SF2YUAh9t9TeoambGAO8vhvlwuUdJ89SPJ7pwtnjR2M\nUiRto18kqRS+eP/mBGx2m6XXEpxwCX9zYPRI23zJbnViC/XgcCJEEvD4oSfScXdN\nTho3kWUCgYARiNHSKUTwZ3mPWGZ3z8gc2D8AIDGgH2Ro7vrgkyAeP6bMPsDGASL0\nVymmSWtoEAA7HtERX8gYdH1yND7K7IXyqItg18omZn9NqEvcR6DQkLJnRK+wsqLF\nOr7hHSlXSAxzuqO8sgfioORy7Mjhy1k+Z1o8pJ3OrbXC5cuOZBtQPwKBgBXCTlZ+\nOPFaQDynatuLWO+ukOLtSQd2LTBEXoqQpubqAaFAuGvD8MQbwIIfJCxu0bM4XBOF\nB5QcCj1O+ZCsemqnBcUhurw5ahAcEwBOSTPqX19+iokixhW/DEjFymWBOjKp4UuD\nla90f49DGwOwfxs/bwyfndiPC+F7I1exUjRJAoGBAJTrqk7ULdNgfHGkfS4esIVr\nG91NleeAcTpx6vU2MxafhNVWT/46QbArh9BPvNRLUJBFigN1g/mhNWwAMUyLXbxU\ntkpNRcpixXivl7xn9mo7O+spulZpc0bmrtZ+AR4ShHcaODpFp1gOJTPfvsvBwxfg\nghUqQRF/q2IQtSW/vJZw\n-----END PRIVATE KEY-----\n",
+    "client_email": "dmd-invoices@dmd-database.iam.gserviceaccount.com",
+    "client_id": "117470451389237602353",
+    "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+    "token_uri": "https://oauth2.googleapis.com/token",
+    "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+    "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dmd-invoices%40dmd-database.iam.gserviceaccount.com",
+    "universe_domain": "googleapis.com"
+  }
+  
